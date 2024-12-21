@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Lamoda/static/css/main.2936e6ef.css",
+    "main.js": "/Lamoda/static/js/main.07760875.js",
+    "static/js/453.8d4adff1.chunk.js": "/Lamoda/static/js/453.8d4adff1.chunk.js",
+    "index.html": "/Lamoda/index.html",
+    "main.2936e6ef.css.map": "/Lamoda/static/css/main.2936e6ef.css.map",
+    "main.07760875.js.map": "/Lamoda/static/js/main.07760875.js.map",
+    "453.8d4adff1.chunk.js.map": "/Lamoda/static/js/453.8d4adff1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2936e6ef.css",
+    "static/js/main.07760875.js"
+  ]
+}
